@@ -9,6 +9,8 @@ public class Person {
 		this.surname = surname;
 	}
 
+	public Person(){}
+
 	public String getName() {
 		return this.name;
 	}
